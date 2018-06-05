@@ -1,0 +1,11 @@
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\Hoster\bin\Debug\Hoster.exe.config
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\Hoster\bin\Debug\Hoster.exe
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\Hoster\bin\Debug\Hoster.pdb
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\Hoster\bin\Debug\WebService.dll
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\Hoster\bin\Debug\WebService.pdb
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\Hoster\bin\Debug\WebService.dll.config
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\Hoster\obj\Debug\Hoster.csprojResolveAssemblyReference.cache
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\Hoster\obj\Debug\Hoster.csproj.CoreCompileInputs.cache
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\Hoster\obj\Debug\Hoster.csproj.CopyComplete
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\Hoster\obj\Debug\Hoster.exe
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\Hoster\obj\Debug\Hoster.pdb

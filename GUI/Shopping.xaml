@@ -1,0 +1,22 @@
+﻿<Window x:Class="GUI.Shopping"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="Shopping" Height="450" Width="800">
+    <Grid Background="#FF0C93F1">
+        <TextBlock HorizontalAlignment="Left" Margin="66,41,0,0" TextWrapping="Wrap" Text="Inventory" VerticalAlignment="Top" Height="22" Width="111"/>
+        <ListBox x:Name="inventory" HorizontalAlignment="Left" Height="222" Margin="66,77,0,0" VerticalAlignment="Top" Width="286"/>
+        <TextBlock HorizontalAlignment="Right" Margin="0,41,228,0" TextWrapping="Wrap" Text="Products" VerticalAlignment="Top" Height="22" Width="111"/>
+        <ListBox x:Name="products" HorizontalAlignment="Right" Height="222" Margin="0,77,53,0" VerticalAlignment="Top" Width="286"/>
+        <Button x:Name="Buy" Content="Buy" HorizontalAlignment="Left" Margin="533,333,0,0" VerticalAlignment="Top" Width="90" Click="Button_Click" Height="26"/>
+        <Button x:Name="Refresh" Content="Refresh" HorizontalAlignment="Left" Margin="649,333,0,0" VerticalAlignment="Top" Width="90" Click="Button_Click1" Height="26"/>
+        <TextBlock HorizontalAlignment="Left" Margin="89,320,0,0" TextWrapping="Wrap" Text="Saldo:" VerticalAlignment="Top" Height="19" Width="40"/>
+        <TextBlock HorizontalAlignment="Left" Margin="134,320,0,0" TextWrapping="Wrap" Text="€" VerticalAlignment="Top" Height="19"/>
+        <TextBlock x:Name="saldo" HorizontalAlignment="Left" Margin="157,320,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="39" Text=""/>
+        <TextBlock x:Name="shoppingresult" HorizontalAlignment="Left" Margin="439,307,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="343"/>
+
+    </Grid>
+</Window>
