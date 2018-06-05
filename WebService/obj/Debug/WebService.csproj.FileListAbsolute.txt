@@ -1,0 +1,9 @@
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\WebService\bin\Debug\WebService.dll.config
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\WebService\bin\Debug\WebService.dll
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\WebService\bin\Debug\WebService.pdb
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\WebService\obj\Debug\WebService.dll
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\WebService\obj\Debug\WebService.pdb
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\WebService\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Lucca.LAPTOP-PKB9NQVU\source\repos\WebService\WebService\obj\Debug\WebService.csproj.CopyComplete
